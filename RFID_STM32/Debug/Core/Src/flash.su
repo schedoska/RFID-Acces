@@ -1,0 +1,16 @@
+flash.c:9:6:flash_init	16	static
+flash.c:28:6:flash_wren	16	static
+flash.c:36:6:flash_write_byte	24	static
+flash.c:56:9:flash_read_byte	24	static
+flash.c:74:9:flash_read_status_register	16	static
+flash.c:84:6:flash_write_byte_array	24	static
+flash.c:92:6:flash_read_byte_array	24	static
+flash.c:112:6:flash_download_tag_data	16	static
+flash.c:129:9:find_tag	24	static
+flash.c:138:9:flash_compare_tags	32	static
+flash.c:147:6:flash_add_new_tag	16	static
+flash.c:154:9:flash_remove_tag	24	static
+flash.c:168:6:flash_update_memory_content	16	static
+flash.c:187:6:flash_erase_block	24	static
+flash.c:205:9:is_tag_removed	24	static
+flash.c:214:6:flash_clear_database_wo_password	8	static

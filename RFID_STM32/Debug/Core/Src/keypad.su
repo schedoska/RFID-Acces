@@ -1,0 +1,4 @@
+keypad.c:5:6:keypad_init	16	static
+keypad.c:12:8:keypad_scan_pressed_index	16	static
+keypad.c:31:6:keypad_index_to_char	16	static
+keypad.c:36:8:keypad_scan_pressed_index_filtered	16	static

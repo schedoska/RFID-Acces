@@ -1,0 +1,14 @@
+app.c:17:6:app_default_state	24	static
+app.c:62:6:app_write_password_state	24	static
+app.c:109:6:app_menu_state_page_1	24	static
+app.c:145:6:app_menu_state_page_2	24	static
+app.c:181:6:app_menu_state_page_3	24	static
+app.c:217:6:app_menu_state_page_4	24	static
+app.c:253:6:app_add_user_state	16	static
+app.c:295:6:app_delete_user_state	16	static
+app.c:335:6:app_change_password_state	24	static
+app.c:378:6:app_clear_database_state	24	static
+app.c:417:9:app_is_password_correct	16	static
+app.c:424:6:app_main_loop	16	static
+app.c:460:6:HAL_TIM_PeriodElapsedCallback	16	static
+app.c:466:6:HAL_UART_RxCpltCallback	16	static
